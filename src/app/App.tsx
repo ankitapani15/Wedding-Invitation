@@ -37,7 +37,7 @@ export default function App() {
     {
       title: "Haldi",
       date: "March 4, 2026",
-      time: "9:00 AM",
+      time: "10:00 AM",
       venue: "Saraswati Mandap, Old Town, Bhubaneswar",
       href: "https://www.google.com/maps/dir//SARASWATI+MANDAP,+Plot+No.992,+Giani+Zail+Singh+Rd,+Sriram+Nagar,+Old+Town,+Bhubaneswar,+Odisha+751002/@17.4686208,78.364672,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3a19a6d7a6b769eb:0x182de7a84221a2d3!2m2!1d85.8404333!2d20.2311432?entry=ttu&g_ep=EgoyMDI2MDIwNC4wIKXMDSoASAFQAw%3D%3D",
       description:
@@ -47,7 +47,7 @@ export default function App() {
     {
       title: "Ring Ceremony & Sangeet",
       date: "March 4, 2026",
-      time: "7:00 PM",
+      time: "6:00 PM",
       venue: "Saraswati Mandap, Old Town, Bhubaneswar",
       href: "https://www.google.com/maps/dir//SARASWATI+MANDAP,+Plot+No.992,+Giani+Zail+Singh+Rd,+Sriram+Nagar,+Old+Town,+Bhubaneswar,+Odisha+751002/@17.4686208,78.364672,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3a19a6d7a6b769eb:0x182de7a84221a2d3!2m2!1d85.8404333!2d20.2311432?entry=ttu&g_ep=EgoyMDI2MDIwNC4wIKXMDSoASAFQAw%3D%3D",
       description:
@@ -57,7 +57,7 @@ export default function App() {
     {
       title: "Shaadi",
       date: "March 5, 2026",
-      time: "4:00 PM",
+      time: "7:00 PM",
       venue: "Raj Palace and Convention, Lingipur, Bhubaneswar",
       href: "https://www.google.com/maps?sca_esv=96453034df65cf11&sxsrf=ANbL-n5EXFam2DB3mHeOVbtF6_-hnpH4MQ:1770574596510&gs_lp=Egxnd3Mtd2l6LXNlcnAiGXJhaiBwYWxhY2UgYW5kIGNvbnZlbnRpb24qAggAMgsQLhiABBjHARivATIFEAAYgAQyBRAAGIAEMgsQABiABBiGAxiKBTILEAAYgAQYhgMYigUyCxAAGIAEGIYDGIoFMgsQABiABBiGAxiKBTILEAAYgAQYhgMYigUyCBAAGIAEGKIEMgUQABjvBTIaEC4YgAQYxwEYrwEYlwUY3AQY3gQY4ATYAQFIm3ZQ9gZYz2hwA3gAkAEEmAGmA6ABxD6qAQswLjEwLjE3LjUuMbgBA8gBAPgBAZgCHqAC2TeoAhDCAgoQABiwAxjWBBhHwgIKECMYgAQYJxiKBcICBhAAGBYYHsICBxAjGCcY6gLCAg0QIxiABBgnGIoFGOoCwgITEC4YgAQY0QMYxwEYJxiKBRjqAsICFhAAGIAEGEMYtAIY5wYYigUY6gLYAQHCAhAQABgDGLQCGOoCGI8B2AEBwgIQEC4YAxi0AhjqAhiPAdgBAcICBBAjGCfCAgsQLhiABBiRAhiKBcICERAuGIAEGJECGMcBGIoFGK8BwgIOEC4YgAQYsQMYgwEYigXCAg4QLhiABBixAxjRAxjHAcICCBAAGIAEGLEDwgIFEC4YgATCAgsQLhiABBixAxiDAcICChAAGIAEGEMYigXCAhAQLhiABBhDGMcBGIoFGK8BwgIXEC4YgAQYkQIYxwEYmAUYmQUYigUYrwHCAgsQABiABBiRAhiKBcICCBAuGIAEGLEDwgIKEC4YgAQYQxiKBcICJhAuGIAEGJECGMcBGJgFGJkFGIoFGK8BGJcFGNwEGN4EGOAE2AEBwgIOEC4YgAQYxwEYjgUYrwHCAg4QABiABBixAxiDARiKBcICIBAuGIAEGJECGMcBGIoFGK8BGJcFGNwEGN4EGOAE2AEBwgINEC4YgAQYsQMYQxiKBcICDhAuGIAEGMcBGMkDGK8BwgIQEAAYgAQYsQMYQxiDARiKBcICDRAuGIAEGLEDGIMBGArCAgQQABgDwgIREAAYgAQYkQIYsQMYgwEYigXCAhEQLhiABBjHARiYBRiZBRivAcICBhAAGAMYCsICERAuGIAEGMcBGJgFGJoFGK8BwgIOEC4YgAQYxwEYmAUYrwHCAggQABiiBBiJBZgDGvEFjJ_YLK-2it2IBgGQBgS6BgYIARABGAGSBwgzLjEuMTcuOaAHk50EsgcIMC4xLjE3Ljm4B5Q3wgcIMy05LjIwLjHIB7YFgAgA&um=1&ie=UTF-8&fb=1&gl=in&sa=X&geocode=Ka2HvxsApxk6MUc9fXsqxcoq&daddr=Nuagaon,+Samantarapur,+Lingipur,+Bhubaneswar,+Odisha+751002",
       description:
